@@ -19,5 +19,6 @@ pip install threading
 
 > :warning: **Run the code only once in a while** : As the code uses automated browser for scraping, **Google** and **LinkedIn** will detect frequent requests sent from the bot if run several times. Please do not run the code often. Or else **Your LinkedIn account might get banned. If possible, please use a demo linkedin account.**
 
+<br>
 ## Output Screenshot:
 ![Output](https://user-images.githubusercontent.com/72556043/119951028-2412d100-bfb9-11eb-91f5-e119637f5574.png)
